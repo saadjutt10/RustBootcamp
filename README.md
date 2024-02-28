@@ -1,11 +1,11 @@
 # RustBootcamp
 Rusty Inventory Manager (RIM)
 
-Introduction:
+**Introduction:**
 
 RIM is a user-friendly inventory management system built with Rust, offering easy product management, clear reporting, and error handling.
 
-Getting Started:
+**Getting Started:**
 
 Prerequisites: Ensure you have Rust and Cargo installed on your system.
 Cloning the Project:
@@ -13,15 +13,15 @@ Bash
 git clone https://github.com/your-username/rusty-inventory-manager.git
 cd rusty-inventory-manager
 Use code with caution.
-Building:
+**Building:**
 Bash
 cargo build
 Use code with caution.
-Running:
+**Running:**
 Bash
 cargo run
 Use code with caution.
-Using RIM:
+**Using RIM:**
 
 Follow the on-screen instructions to navigate the menu.
 Choose the desired action from the available options (e.g., add, edit, delete, report).
